@@ -1,0 +1,65 @@
+Title: Get Out
+Genre: Animation
+Director Name: Pete Doctor
+Director Name: Ronnie Carmen
+Studio: Disney
+Year: 2015
+Title: Inside Out
+Genre: Animation, Comedy, Adventure
+Director Name: Pete Docter
+Co-Director Name: Ronnie del Carmen
+Studio: Pixar Animation Studios (Disney)
+Year: 2015
+Title: Spider-Man: Into the Spider-Verse
+Genre: Animation, Action, Adventure
+Director Name: Bob Persichetti
+Director Name:  Peter Ramsey
+Director Name: Rodney Rothman
+Studio: Sony Pictures Animation
+Year: 2018
+Title: The Shawshank Redemption
+Genre: Drama
+Director Name: Frank Darabont
+Studio: Columbia Pictures
+Year: 1994
+Title: The Godfather
+Genre: Drama, Crime
+Director Name: Francis Ford Coppola
+Studio: Paramount Pictures
+Year: 1972
+Title: Parasite
+Genre: Drama, Thriller, Dark Comedy
+Director Name: Bong Joon-ho
+Studio: CJ Entertainment
+Year: 2019
+Title: The Matrix
+Genre: Sci-Fi, Action
+Director Name: Lana Wachowski, Lilly Wachowski
+Studio: Warner Bros.
+Year: 1999
+Title: Inception
+Genre: Sci-Fi, Action, Thriller
+Director Name: Christopher Nolan
+Studio: Warner Bros.
+Year: 2010
+Title: Arrival
+Genre: Sci-Fi, Drama
+Director Name: Denis Villeneuve
+Studio: Paramount Pictures
+Year: 2016
+Title: Get Out
+Genre: Horror, Mystery, Thriller
+Director Name: Jordan Peele
+Studio: Blumhouse Productions (Universal)
+Year: 2017
+Title: The Shining
+Genre: Horror, Psychological
+Director Name: Stanley Kubrick
+Studio: Warner Bros.
+Year: 1980
+Title: Hereditary
+Genre: Horror, Mystery
+Director Name: Ari Aster
+Studio: A24
+Year: 2018
+
