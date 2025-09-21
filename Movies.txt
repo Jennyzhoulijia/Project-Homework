@@ -1,7 +1,7 @@
 Title: Get Out
 Genre: Animation
 Director Name: Pete Doctor
-Director Name: Ronnie Carmen
+Director Name: Ronnie del Carmen
 Studio: Disney
 Year: 2015
 Title: Inside Out
@@ -17,12 +17,12 @@ Director Name:  Peter Ramsey
 Director Name: Rodney Rothman
 Studio: Sony Pictures Animation
 Year: 2018
-Title: The Shawshank Redemption
+Title: Shawshank Redemption
 Genre: Drama
 Director Name: Frank Darabont
 Studio: Columbia Pictures
 Year: 1994
-Title: The Godfather
+Title: Godfather
 Genre: Drama, Crime
 Director Name: Francis Ford Coppola
 Studio: Paramount Pictures
@@ -32,7 +32,7 @@ Genre: Drama, Thriller, Dark Comedy
 Director Name: Bong Joon-ho
 Studio: CJ Entertainment
 Year: 2019
-Title: The Matrix
+Title: Matrix
 Genre: Sci-Fi, Action
 Director Name: Lana Wachowski, Lilly Wachowski
 Studio: Warner Bros.
@@ -52,7 +52,7 @@ Genre: Horror, Mystery, Thriller
 Director Name: Jordan Peele
 Studio: Blumhouse Productions (Universal)
 Year: 2017
-Title: The Shining
+Title: Shining
 Genre: Horror, Psychological
 Director Name: Stanley Kubrick
 Studio: Warner Bros.
