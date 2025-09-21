@@ -62,4 +62,3 @@ Genre: Horror, Mystery
 Director Name: Ari Aster
 Studio: A24
 Year: 2018
-
